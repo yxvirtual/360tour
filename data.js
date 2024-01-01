@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-dji_fly_20231231_114826_665_1704041418930_pano",
-      "name": "dji_fly_20231231_114826_665_1704041418930_pano",
+      "id": "0-test1",
+      "name": "test1",
       "levels": [
         {
           "tileSize": 256,
@@ -49,10 +49,10 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "test",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": false,
     "viewControlButtons": true
   }
