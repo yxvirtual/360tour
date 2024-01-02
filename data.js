@@ -37,7 +37,7 @@ var APP_DATA = {
           "yaw": 0.22810783160070436,
           "pitch": 0.46460515368675104,
           "rotation": 0,
-          "target": "0-first-floor"
+          "target": "1-living-room"
         }
       ],
       "infoHotspots": []
@@ -76,16 +76,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.8879505888860404,
-          "pitch": 0.2955318642024949,
+          "yaw": -2.889018605664141,
+          "pitch": 0.09032591816384894,
           "rotation": 0,
           "target": "2-kitchen"
         },
         {
-          "yaw": -1.8835091308503848,
-          "pitch": 0.41996091844742267,
+          "yaw": -1.6308035398281966,
+          "pitch": 0.21654627247714409,
           "rotation": 0,
           "target": "4-stairs"
+        },
+        {
+          "yaw": -2.5705850723283508,
+          "pitch": 0.38556091377753887,
+          "rotation": 0,
+          "target": "0-first-floor"
         }
       ],
       "infoHotspots": []
@@ -124,8 +130,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.979042377144884,
-          "pitch": 0.34946158911832903,
+          "yaw": 2.9976953055654887,
+          "pitch": 0.27155837831956475,
           "rotation": 0,
           "target": "1-living-room"
         }
